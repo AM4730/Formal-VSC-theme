@@ -1,0 +1,27 @@
+{
+  "name": "Formal",
+  "displayName": "Formal",
+  "description": "A VSCode light theme",
+  "publisher": "Lemz42",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "icon": "images/Lemz42.png",
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AM4730/Formal-VSC-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Formal",
+        "uiTheme": "vs",
+        "path": "./themes/Formal-color-theme.json"
+      }
+    ]
+  }
+}
