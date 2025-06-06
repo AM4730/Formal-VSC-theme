@@ -3,7 +3,7 @@
   "displayName": "Formal",
   "description": "A VSCode light theme",
   "publisher": "Lemz42",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.99.0"
   },
